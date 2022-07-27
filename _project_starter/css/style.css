@@ -1,0 +1,22 @@
+/** @format */
+
+/* Google Fonts - `Roboto` */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Universal - if we apply any padding, etc. to an element, it won't effect it. */
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	display: flex;
+	flex-direction: column;
+	/* For the centering of our items to work all the way (i.e. both horizontally and vertically), we need to set the height. `vh` stands for viewport height. So, 100vh means 100% of the viewable screen's height. */
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	/* To prevent the showing of scrollbars by default, when items overflow. */
+	overflow: hidden;
+	margin: 0;
+}
