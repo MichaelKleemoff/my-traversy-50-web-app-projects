@@ -1,4 +1,4 @@
-# my-traversy-50-projects
+# my-traversy-50-webapp-projects
 
 This repo is set up to track my progress with and push my code in following [**Brad Traversy's** *50 Projects in 50 Days - HTML, CSS & JavaScript*](https://www.udemy.com/course/50-projects-50-days/) on Udemy. 
 
