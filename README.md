@@ -8,5 +8,5 @@ I am starting today: *Wednesday, July 27, 2022*.
 
 | No.  | Project           | Date Completed | 
 | :--: |  :-------------:  | :-------------:|
-|   1.   | *Expanding Cards* |  July 27, 2022 |
-|   2.   | *Progress Steps*  |  July 28, 2022 |
+|   1.   | **[Expanding Cards](https://michaelkleemoff.github.io/my-traversy-50-web-app-projects/expanding-cards/)** |  July 27, 2022 |
+|   2.   | **Progress Steps**  |  July 28, 2022 |
